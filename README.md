@@ -1,4 +1,4 @@
 # PragmatechPhpProject
 
 # Day 1
-    26 algorithm solution
+    27 algorithm solution
