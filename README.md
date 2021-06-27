@@ -1,4 +1,4 @@
 # PragmatechC#Project
 
 # Day 1
-    82 algorithm solution
+    84 algorithm solution
